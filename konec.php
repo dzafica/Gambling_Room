@@ -22,6 +22,7 @@ $redirect_time = 15;
     <meta charset="UTF-8">
     <title>Rezultati</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="./img/favIcon.svg" type="image/x-icon">
     <style>
         html,
         body {
