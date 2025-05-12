@@ -8,6 +8,7 @@ session_start();
     <meta charset="UTF-8">
     <title>Dzafich Casino - Home</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="./img/favIcon.svg" type="image/x-icon">
 </head>
 <body>
     <div class="wrapper">
