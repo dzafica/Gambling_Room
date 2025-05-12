@@ -9,4 +9,3 @@ The game includes animations for the dice rolls and a countdown timer for the re
 - **Winner determination**: The player with the highest score wins the game.
 - **Countdown**: After the game ends, a timer redirects users to the home page.
 
-## Files Structure
