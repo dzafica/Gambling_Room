@@ -47,6 +47,7 @@ foreach ($_SESSION['totals'] as $index => $score) {
     <meta charset="UTF-8">
     <title>Dzafich Casino - Results</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="./img/favIcon.svg" type="image/x-icon">
     <script>
         function showDiceResults() {
             const animations = document.querySelectorAll('.dice-animation');
